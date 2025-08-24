@@ -175,6 +175,9 @@ payload:
 - DOMAIN-KEYWORD,bhinneka
 - DOMAIN-KEYWORD,zalora
 # E-Wallet / Dompet Digital
+- DOMAIN-SUFFIX,gopay.com
+- DOMAIN-SUFFIX,shopeepay.com
+- DOMAIN-SUFFIX,jago.com
 - DOMAIN-SUFFIX,gojek.com
 - DOMAIN-SUFFIX,gobiz.co.id
 - DOMAIN-SUFFIX,ovo.id
@@ -186,6 +189,9 @@ payload:
 - DOMAIN-SUFFIX,shopeepay.co.id
 - DOMAIN-SUFFIX,grab.com
 - DOMAIN-SUFFIX,grabtaxi.com
+- DOMAIN-KEYWORD,internetbanking
+- DOMAIN-KEYWORD,mbanking
+- DOMAIN-KEYWORD,ibanking
 - DOMAIN-KEYWORD,gojek
 - DOMAIN-KEYWORD,gobiz
 - DOMAIN-KEYWORD,ovo
@@ -211,3 +217,6 @@ payload:
 - DOMAIN-KEYWORD,sch.id
 - DOMAIN-KEYWORD,desa.id
 - DOMAIN-KEYWORD,ponpes.id
+#Security Domains
+- DOMAIN-SUFFIX,veritrans.co.id
+- DOMAIN-SUFFIX,doku.com
